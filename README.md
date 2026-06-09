@@ -181,18 +181,6 @@ Power Query
 DAX (Data Analysis Expressions)
 Data Modeling
 Microsoft Excel
-📷 Dashboard Preview
-Main Dashboard
-
-(Add Screenshot Here)
-
-MTD Dashboard
-
-(Add Screenshot Here)
-
-Last Year Dashboard
-
-(Add Screenshot Here)
 
 💼 Business Benefits
 Faster decision-making
@@ -252,4 +240,3 @@ Mobile-Sales-Dashboard/
 │
 └── README.md
 
-Ye README recruiter level ka hai aur Power BI portfolio projects me kaafi professional lagega. GitHub pe screenshots add kar dena aur repo ke top me ek dashboard preview image laga dena, project aur bhi impressive lagega. 🚀
