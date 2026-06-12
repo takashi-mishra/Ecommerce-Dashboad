@@ -20,6 +20,7 @@ The dashboard provides valuable insights into sales performance, customer behavi
 - Study customer payment preferences.
 - Provide interactive filtering and drill-down capabilities.
 
+<div align="center"> <img src="https://github.com/takashi-mishra/Ecommerce-Dashboad/blob/main/Screenshot%202026-06-09%20155049.png" height="600" /> </div>
 ---
 
 ## 🗂 Dataset Information
@@ -108,6 +109,7 @@ TOTALMTD(
 Calendar[Date]
 )
 📈 Dashboard Pages
+
 1️⃣ Main Dashboard
 
 Provides an overview of:
